@@ -1,4 +1,4 @@
-<img src=https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif>
+<img src=https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif align="center">
 <h1 align="center">Hey there👋Saad ZAKARIA is here</h1>
 
 <p align="center">
