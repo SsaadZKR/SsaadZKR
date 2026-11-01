@@ -1,4 +1,5 @@
-<h1 align="center">Saad Zakaria</h1>
+<img src=https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif>
+<h1 align="center">Hey there👋Saad ZAKARIA is here</h1>
 
 <p align="center">
   STE Student · Aspiring Developer · Robotics & AI Enthusiast<br>
@@ -13,7 +14,7 @@
 
 ---
 
-### 👋 About
+###  About
 
 I'm interested in Artificial Intelligence, Robotics, and Embedded Systems, especially projects that combine software and hardware. My goal is to develop practical technologies and complete products.
 
