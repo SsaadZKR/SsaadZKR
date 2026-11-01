@@ -1,5 +1,7 @@
-<h1 align="center">Hey there👋Saad ZAKARIA is here</h1><img align="center" src=https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif >
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="200">
+</p>
+<h1 align="center">Hey there👋Saad ZAKARIA is here</h1>
 <p align="center">
   STE Student · Aspiring Developer · Robotics & AI Enthusiast<br>
   <sub>Morocco 🇲🇦 &nbsp;|&nbsp; Arabic · French · English</sub>
