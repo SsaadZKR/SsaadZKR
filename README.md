@@ -18,9 +18,9 @@
 I'm interested in Artificial Intelligence, Robotics, and Embedded Systems, especially projects that combine software and hardware. My goal is to develop practical technologies and complete products.
 
 - 🤖 Member of **IBMi FRC Team #1214**
-- 🎓 **IBM Innovators** certification
+- 🎓 **ST** student
 - 🏆 Participant in the **STEM NAWABIR** competition
-- 🌱 Currently learning: computer vision, embedded systems, and cleaner, more maintainable code
+- 🌱 Founder of **Futer Tech** Team
 
 ---
 
