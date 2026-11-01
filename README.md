@@ -1,50 +1,87 @@
-<h1 align="center">Hi 👋, I'm Saad Zakaria</h1>
+<h1 align="center">Saad Zakaria</h1>
 
 <p align="center">
-  <i>Building the future, one circuit at a time ⚡</i>
+  STE Student · Aspiring Developer · Robotics & AI Enthusiast<br>
+  <sub>Morocco 🇲🇦 &nbsp;|&nbsp; Arabic · French · English</sub>
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/saadzakaria/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="28" alt="linkedin" />
-  </a>
-  <a href="https://www.instagram.com/__sa3do__zkr/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="28" alt="instagram" />
-  </a>
-  <a href="mailto:zakariasaad2011@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" alt="gmail" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/saadzakaria/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/__sa3do__zkr/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:zakariasaad2011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+### 👋 About
 
-I'm Saad from Morocco 🇲🇦
+I learn by building real things, especially projects where **software meets physical hardware**. I'm interested in AI, robotics and embedded systems, and I'm working toward building complete products rather than just writing code.
 
-- 🔭 ST student
 - 🤖 Member of **IBMi FRC Team #1214**
-- ⚡ Founder of **Futer Tech Group**
+- 🎓 **IBM Innovators** certification
+- 🏆 Participant in the **STEM NAWABIR** competition
+- 🌱 Currently learning: computer vision, embedded systems, and cleaner, more maintainable code
 
 ---
 
-## 🛠 Languages & Tools
+### 🚀 Featured Project
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="arduino" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="45" alt="raspberrypi" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="45" alt="godot" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python" />
-</div>
+<a href="https://github.com/SsaadZKR/Redstone-AI">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SsaadZKR&repo=Redstone-AI&theme=tokyonight&hide_border=true" alt="Redstone AI" />
+</a>
+
+**Redstone AI** is an AI-powered interactive assistant designed to make everyday tasks easier, particularly for people with accessibility and mobility needs. It combines voice interaction, a touchscreen interface and custom hardware into one unified system. It has a Minecraft-inspired pixel look, but that's only the visual style; the goal is a functional accessibility assistant.
+
+| | |
+|---|---|
+| **Hardware** | Raspberry Pi Zero 2 W · INMP441 I2S microphone · speaker · touchscreen |
+| **Software** | Speech-to-Text · Text-to-Speech · local & online AI models |
+| **Architecture** | Workloads split between the Pi, a laptop, and cloud AI services |
+| **Planned** | Camera input · hand tracking and gesture interaction |
+
+**Also explored:** BMO AI (an interactive assistant inspired by the BMO character), Godot 2D pixel-art platformer experiments, and Linux desktop customization.
 
 ---
 
-## 🔥 My Stats
+### 🛠 Tech Stack
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+**Software**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" height="40" alt="Firebase" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="Godot" />
+</p>
+
+**Hardware & Systems**
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="Raspberry Pi" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</p>
+
+<sub>Also: ESP32 · I2C / I2S / GPIO · PCB design · Arch Linux (CachyOS) · Hyprland · KDE Plasma · Bash</sub>
+
+---
+
+### 🎯 Interests
+
+`AI & Machine Learning` · `Robotics` · `Embedded Systems` · `Computer Vision` · `Voice Assistants` · `Human-Computer Interaction` · `Linux & Open Source` · `Hardware Prototyping` · `Game Dev & Pixel Art`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SsaadZKR&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SsaadZKR&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <sub>Still learning, still building. 🔧</sub>
+</p>
