@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saad Zakaria.</h1>
 <h3 align="center">ST Student | Robotics, Artificial Intelligence & Vibe Coding | Membre of IBMi FRC TEAM</h3>
 
-- 🔭 I’m currently working on [<h2>[Redstone AI]</h2>](https://github.com/SsaadZKR/Redstone-AI)
+- 🔭 I’m currently working on [**Redstone AI**](https://github.com/SsaadZKR/Redstone-AI)
 
 - 👨‍💻 All of my projects are available at [https://github.com/SsaadZKR/](https://github.com/SsaadZKR/)
 
