@@ -15,7 +15,7 @@
 
 ### 👋 About
 
-I learn by building real things, especially projects where **software meets physical hardware**. I'm interested in AI, robotics and embedded systems, and I'm working toward building complete products rather than just writing code.
+I'm interested in Artificial Intelligence, Robotics, and Embedded Systems, especially projects that combine software and hardware. My goal is to develop practical technologies and complete products.
 
 - 🤖 Member of **IBMi FRC Team #1214**
 - 🎓 **IBM Innovators** certification
